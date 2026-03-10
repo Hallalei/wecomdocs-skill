@@ -6,11 +6,18 @@ Claude Code plugin for operating WeCom Docs (企业微信文档) spreadsheets vi
 
 ## Installation / 安装
 
-```bash
-/plugin install https://github.com/Hallalei/wecomdocs-skill
+In Claude Code, run:
+
+```
+/plugin marketplace add Hallalei/wecomdocs-skill
+/plugin install wecomdocs-skill
 ```
 
-To update, re-run the install command.
+To update:
+
+```
+/plugin update wecomdocs-skill
+```
 
 ## Prerequisites / 前置依赖
 
