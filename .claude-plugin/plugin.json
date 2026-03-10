@@ -1,0 +1,11 @@
+{
+  "name": "wecomdocs-skill",
+  "description": "Claude Code skill for operating WeCom Docs (企业微信文档) spreadsheets via wecomdocs-cli",
+  "version": "1.0.0",
+  "author": {
+    "name": "Hallalei"
+  },
+  "homepage": "https://github.com/Hallalei/wecomdocs-skill",
+  "repository": "https://github.com/Hallalei/wecomdocs-skill",
+  "license": "MIT"
+}
