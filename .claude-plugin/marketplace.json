@@ -1,12 +1,16 @@
 {
   "name": "wecomdocs-skill",
   "description": "WeCom Docs skills for Claude Code",
+  "owner": {
+    "name": "Hallalei"
+  },
   "plugins": [
     {
       "name": "wecomdocs-skill",
       "description": "Claude Code skill for operating WeCom Docs (企业微信文档) spreadsheets via wecomdocs-cli",
       "version": "1.0.0",
-      "source": "."
+      "source": "./",
+      "category": "productivity"
     }
   ]
 }
