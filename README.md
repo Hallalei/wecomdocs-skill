@@ -8,6 +8,15 @@ Claude Code / Cursor plugin for operating WeCom Docs (企业微信文档) spread
 
 ### Claude Code
 
+在 Claude Code 对话中输入：
+
+```
+/plugin marketplace add https://github.com/Hallalei/wecomdocs-skill.git
+/plugin install wecomdocs-skill
+```
+
+或通过 CLI：
+
 ```bash
 claude plugin marketplace add https://github.com/Hallalei/wecomdocs-skill.git
 claude plugin install wecomdocs-skill
@@ -15,8 +24,8 @@ claude plugin install wecomdocs-skill
 
 更新：
 
-```bash
-claude plugin update wecomdocs-skill
+```
+/plugin update wecomdocs-skill
 ```
 
 ### Cursor
